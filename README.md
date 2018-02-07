@@ -1,5 +1,7 @@
 # Conways_game_of_life
 To get the code to work use these number sequences 
+
+
 1): 2 1 2 3 3 4 4 4 5 1 5 4 6 2 6 3 6 4 15 0 16 1 14 2 15 2 16 2
 
 
