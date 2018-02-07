@@ -1,0 +1,13 @@
+Esteban Serna
+Cs327.s2017
+assignment0
+
+Assignment0 was an interesting assignment for me, I have never had a C background and coming from java and programming in an environment like java. C felt a lot different and that java had me pampered in a set way to program. 
+For assingment0 I took 2 days to get familiar with Emacs, getting to know the short cuts on the keyboard. Getting a custom to the -nw version of Emacs. As for the Linux use I only had issues with the .ova file and I have never used a  a Vm before. After getting settled in I began to go over the quick notes I had taken in class and began to practice C before diving into the program. 
+
+While working on the Game of life (life.c) I began to work in some of the example of class into the actual assignment that we had to do. At a certain point in time, the code gave out too many error. I had to restart, while still keeping some of the advancements I had made working on the code. While working on the code, I  had some terminal issue where it ended up deleting the life.c file. 
+
+Nearing the deadline I could not make it to office hours as it conflicted with my schedule. So I tried to work the code out the best I could. Reading up on the Wiki and doing a bit of research of the game. 
+I ended running into some issue with the count and the rules in place for the game. I had to restructure my game lay out and having to go to the help room to get another pair of eyes to look at the code to see if I had overlooked something. In the end the help that I got from the help room, finalized my code and the overall experience made it a good introduction into the C language.
+
+

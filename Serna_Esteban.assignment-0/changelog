@@ -1,0 +1,39 @@
+Esteban Serna
+Cs327.s2017
+assignment0
+
+				****Change log*****
+1/9:
+	Getting familiar with 327 and how it works 
+	no code was worked on. 
+1/11:
+	fedora linux set up, getting familiar with emacs.
+	practice codes in c where done.
+	life.c was made.
+1/13:
+	life.c was worked on: 
+	things initialized
+	void life_grid(void) made,
+	taking input was done. 
+	tests on how to get a start. 
+	first compiled.
+1/14:
+	 errors in the code.
+	redo of cod was done.
+	count and coppy where added.
+	first grid output.
+	Changelog made.
+1/15:
+	tweakes to the code.
+	Errors; many saves and updates to code.
+1/16:
+	no code worked on. 
+1/17:
+	makefile made.
+	life.c deleted.. 
+	life.c resurected.
+	same issues.
+1/18:
+	issues w/count, rules, output type fixed 
+	TA Zack helped
+	declared final build of code.
